@@ -1,0 +1,53 @@
+$ STANDART LIBRARY FOR MASML
+$ --v0.0.1
+
+
+.n containers &s ;
+    .y queue q ;
+    .y list l ;
+.n &e ;
+
+
+.n strtypes &s ;
+    .y var v ;
+    .y con c ;
+    .y list l ;
+    .y for f ;
+    .y deinit d ;
+    .y arthm a ;
+    .y while w ;
+    .y if i ;
+    .y else e ;
+    .y clear z ;
+
+    .y strtype y ;
+    .y prog p ;
+    .y run r ;
+    .y save s ;
+    .y using u ;
+    .y run_all x ;
+    .y type t ;
+    .y hide h ;
+    .y operator o ;
+    .y import m ;
+    .y namespace n ;
+.n &e ;
+
+
+.n types &s ;
+    .t int #i ;
+    .t bool #b ;
+.n &e ;
+
+
+.n hides &s ;
+    .h start &s ;
+    .h end &e ;
+    .h in *i ;
+    .h out *o ;
+.n &e ;
+
+
+.n operators &s ;
+    .o a[b] a^b ;
+.n &e ;
