@@ -126,4 +126,4 @@ def main(filenm):
     maider(file)
 
 
-main("firstCode.masml")
+main(input())
